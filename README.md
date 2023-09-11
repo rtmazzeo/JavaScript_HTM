@@ -1,2 +1,2 @@
-# JavaScript_HTM
-Desenvolta um jogo e pratique lógica de programação (Curso Alura)
+# JavaScript_HTML
+Desenvolva um jogo e pratique lógica de programação (Curso Alura)

@@ -39,4 +39,4 @@ Calculo da Média
 - usamos a tag <strong>input</strong> para uma caixa de entrada, onde o usuário pode digitar um número e a tag <strong>button</strong> para criar um botão que o usuário pode clicar para comparar o número digitado na caixa de entrada com um segredo.
 - Definimos que, quando o botão é clicado, a função verifica() é chamada. Essa função verifica se o número digitado pelo usuário na caixa de entrada coincide com algum número na lista de segredos. Exibe uma mensagem de acerto ou erro com base na verificação.
 
-[Certificado](https://cursos.alura.com.br/certificate/3cf140ed-0944-4074-8fe6-4b2b76ba5200?lang=pt_BR)
+![Certificado](certificado.png)
